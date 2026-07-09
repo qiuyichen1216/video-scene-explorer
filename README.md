@@ -35,3 +35,6 @@ python scripts/align_scenes.py data/raw/video-Scenes.csv data/processed/transcri
 ## Next step
 
 After `scene_transcripts.json` is created, extract one keyframe per scene and then build simple query retrieval over the scene transcripts.
+## Demo
+
+![Video Scene Explorer demo](assets/demo_search.png)
